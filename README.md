@@ -10,13 +10,14 @@
 
 ### Descrição
 
-Criada uma nova aplicação Next.JS com TypeScript.
-Na página index.tsx, uma frase no meio da página em um H1 utilizando @emotion/styled com os dizeres: "Executando React com Next.JS".
+Clonando projeto React, desmembrando componentes
 
-Criado um subtítulo um pouco menor nesta página com um H2 estilizado com @emotion/styled com os dizeres: "Site criado em TypeScript publicado na Vercel" (https://atividade-next.vercel.app/).
-
-Crido um tópico com H3 com o nome do grupo.
-Utilizada imagem de fundo com a propriedade background.
+1 - Clone o repositório: https://github.com/glauciodaniel/fiap-avanade-trabalho
+2 - Em seguida instale as dependências.
+3 - Faça o projeto rodar
+4 - Haverá um erro visual no código, corrija-o.
+5 - Separe o código em pelo menos mais dois componentes. Cuidado para não exagerar criando componentes desnecessários.
+6 - Envie o trabalho no link abaixo.
 
 ### Resultado
 
