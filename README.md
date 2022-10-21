@@ -1,6 +1,9 @@
 # Atividade React Next - FIAP
 
-### Integrantes
+
+
+### Integrantes 👥
+
 - Alexsander da Silva;
 - Gabriela Jesumary;
 - Karlessandra Lima;
@@ -8,17 +11,16 @@
 - Quezia Yasmin de Oliveira;
 - Vitória Neris Mendes.
 
-### Descrição
+### Descrição 🧾
 
-Clonando projeto React, desmembrando componentes
+Criada uma nova aplicação Next.JS com TypeScript.Na página index.tsx, uma frase no meio da página em um H1 utilizando @emotion/styled com os dizeres: "Executando React com Next.JS".
 
-1 - Clone o repositório: https://github.com/glauciodaniel/fiap-avanade-trabalho
-2 - Em seguida instale as dependências.
-3 - Faça o projeto rodar
-4 - Haverá um erro visual no código, corrija-o.
-5 - Separe o código em pelo menos mais dois componentes. Cuidado para não exagerar criando componentes desnecessários.
-6 - Envie o trabalho no link abaixo.
+Criado um subtítulo um pouco menor nesta página com um H2 estilizado com @emotion/styled com os dizeres: "Site criado em TypeScript publicado na Vercel" (https://atividade-next.vercel.app/).
 
-### Resultado
+Criado um tópico com H3 com o nome do grupo. Utilizada imagem de fundo com a propriedade background.
 
-<img width="723" alt="image" src="https://user-images.githubusercontent.com/100864157/197218078-2845d537-14e7-4a5c-981d-381b7ca26f90.png">
+### Resultado 👩🏻‍💻
+
+<img width="951" alt="image" src="https://user-images.githubusercontent.com/93789218/195870218-0a2444c0-6b4e-4dcb-932a-4b24fb48fcb1.png">
+
+<i>Confira em: https://atividade-next.vercel.app/</i>
