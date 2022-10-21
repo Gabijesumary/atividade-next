@@ -21,4 +21,4 @@ Clonando projeto React, desmembrando componentes
 
 ### Resultado
 
-<img width="951" alt="image" src="https://user-images.githubusercontent.com/93789218/195870218-0a2444c0-6b4e-4dcb-932a-4b24fb48fcb1.png">
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/100864157/197218078-2845d537-14e7-4a5c-981d-381b7ca26f90.png">
